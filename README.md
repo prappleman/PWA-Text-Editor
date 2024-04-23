@@ -1,6 +1,7 @@
 # (PWA)-Text-Editor
 
 ## Overview
+This is a text editor web application designed to provide a seamless experience for writing and saving content. The application utilizes modern web technologies such as IndexedDB for local database storage, webpack for bundling JavaScript files, and workbox for service worker registration. It aims to offer a user-friendly interface while incorporating efficient backend and frontend functionalities.
 
 <p align="center">
   <img src="assets/JATE.gif" alt="JATE" width="100%">
@@ -18,8 +19,18 @@
 - [Questions](#questions)
 
 ## Getting Started
+To get started with the text editor web application, simply [click here](https://text-editor-pwa12-ed67e7c236f3.herokuapp.com) to access the live version hosted on Heroku.
 
 ## Features
+- **Client-Server Architecture**: Organized folder structure for managing client and server-side code.
+- **Automatic Backend Startup**: Running `npm run start` initiates the backend and serves the client.
+- **Webpack Bundling**: JavaScript files are bundled using webpack for optimized performance.
+- **Generated HTML, Service Worker, and Manifest Files**: Webpack plugins generate essential files for progressive web app functionality.
+- **Next-Gen JavaScript Support**: The application seamlessly functions with modern JavaScript features.
+- **IndexedDB Integration**: Immediate database storage creation for saving and retrieving content.
+- **Offline Support**: Service workers and workbox ensure functionality even when offline.
+- **Installable Web Application**: Users can download the web app as an icon on their desktop for easy access.
+- **Render Deployment**: Build scripts are provided for deploying the application to Render.
 
 ## Contributing
 Thank you for considering contributing to our project! Follow these steps:
