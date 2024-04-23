@@ -4,10 +4,10 @@
 This is a text editor web application designed to provide a seamless experience for writing and saving content. The application utilizes modern web technologies such as IndexedDB for local database storage, webpack for bundling JavaScript files, and workbox for service worker registration. It aims to offer a user-friendly interface while incorporating efficient backend and frontend functionalities.
 
 <p align="center">
-  <img src="assets/JATE.gif" alt="JATE" width="100%">
-  <img src="assets/JATE-manifest.png" alt="App Manifest" width="100%">
-  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="100%">
-  <img src="assets/JATE-database.png" alt="DataBase" width="100%">
+  <img src="assets/JATE.gif" alt="JATE" width="80%">
+  <img src="assets/JATE-manifest.png" alt="App Manifest" width="80%">
+  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="80%">
+  <img src="assets/JATE-database.png" alt="DataBase" width="80%">
 </p>
 
 ## Table of Contents
