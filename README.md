@@ -4,9 +4,9 @@
 
 
 ![JATE](assets/JATE.gif)
-<img src="assets/JATE-manifest.png" alt="App Manifest" width="500px">
-<img src="assets/JATE-serviceworker.png" alt="Service Worker" width="500px">
-<img src="assets/JATE-database.png" alt="DataBase" width="500px">
+<img src="assets/JATE-manifest.png" alt="App Manifest" width="50vw">
+<img src="assets/JATE-serviceworker.png" alt="Service Worker" width="50vw">
+<img src="assets/JATE-database.png" alt="DataBase" width="50vw">
 
 ## Table of Contents
 - [Overview](#overview)
