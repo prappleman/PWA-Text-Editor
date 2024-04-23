@@ -3,10 +3,10 @@
 ## Overview
 
 <p align="center">
-  <img src="assets/JATE.gif" alt="JATE" width="75%">
-  <img src="assets/JATE-manifest.png" alt="App Manifest" width="50%">
-  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="50%">
-  <img src="assets/JATE-database.png" alt="DataBase" width="50%">
+  <img src="assets/JATE.gif" alt="JATE" width="100%">
+  <img src="assets/JATE-manifest.png" alt="App Manifest" width="100%">
+  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="100%">
+  <img src="assets/JATE-database.png" alt="DataBase" width="100%">
 </p>
 
 ## Table of Contents
