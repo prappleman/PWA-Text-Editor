@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+![JATE](assets/JATE.gif)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Getting Started](#getting-started)
