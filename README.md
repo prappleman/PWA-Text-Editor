@@ -4,6 +4,10 @@
 
 
 ![JATE](assets/JATE.gif)
+![App Manifest](assets/JATE-manifest.png)
+![Service Worker](assets/JATE-serviceworker.png)
+![DataBase](assets/JATE-database.png)
+
 
 ## Table of Contents
 - [Overview](#overview)
