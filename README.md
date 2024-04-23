@@ -15,14 +15,6 @@ This is a text editor web application designed to provide a seamless experience 
 To get started with the text editor web application, simply [click here](https://text-editor-pwa12-ed67e7c236f3.herokuapp.com) to access the live version hosted on Heroku.
 
 ## Features
-
-<p align="center">
-  <img src="assets/JATE.gif" alt="JATE" width="80%">
-  <img src="assets/JATE-manifest.png" alt="App Manifest" width="80%">
-  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="80%">
-  <img src="assets/JATE-database.png" alt="DataBase" width="80%">
-</p>
-
 - **Client-Server Architecture**: Organized folder structure for managing client and server-side code.
 - **Automatic Backend Startup**: Running `npm run start` initiates the backend and serves the client.
 - **Webpack Bundling**: JavaScript files are bundled using webpack for optimized performance.
@@ -32,6 +24,13 @@ To get started with the text editor web application, simply [click here](https:/
 - **Offline Support**: Service workers and workbox ensure functionality even when offline.
 - **Installable Web Application**: Users can download the web app as an icon on their desktop for easy access.
 - **Render Deployment**: Build scripts are provided for deploying the application to Render.
+  
+<p align="center">
+  <img src="assets/JATE.gif" alt="JATE" width="80%">
+  <img src="assets/JATE-manifest.png" alt="App Manifest" width="80%">
+  <img src="assets/JATE-serviceworker.png" alt="Service Worker" width="80%">
+  <img src="assets/JATE-database.png" alt="DataBase" width="80%">
+</p>
 
 ## Contributing
 Thank you for considering contributing to our project! Follow these steps:
